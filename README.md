@@ -1,10 +1,11 @@
+---
+title: demo
+---
 
 
+# 词向量
 
-
-# embedding 
-
-- [词向量的可视化](projector)
+- [demo可视化](projector)
 
 
 # 强化学习
